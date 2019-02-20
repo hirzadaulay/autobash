@@ -10,6 +10,7 @@
     echo "=============================>"
     echo "Ekstrak File"
     echo "=============================>"
+    sudo apt-get install -y unzip
     unzip master.zip
     echo "=============================>"
     echo "Memindahkan data"
